@@ -1,0 +1,17 @@
+Room: Roomtwo
+	Wall: 0
+		Length:1.534942
+		First corner:(-1.1, 2.0, -2.9)
+		Second corner:(-0.3, 2.0, -1.6)
+	Wall: 1
+		Length:2.318811
+		First corner:(-0.3, 2.0, -1.6)
+		Second corner:(-2.3, 2.0, -0.3)
+	Wall: 2
+		Length:1.540702
+		First corner:(-2.3, 2.0, -0.3)
+		Second corner:(-3.1, 2.0, -1.6)
+	Wall: 3
+		Length:2.309909
+		First corner:(-3.1, 2.0, -1.6)
+		Second corner:(-1.1, 2.0, -2.9)

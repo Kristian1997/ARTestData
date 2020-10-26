@@ -1,0 +1,45 @@
+Picture: Roomone 0
+	Position: 
+		 X  -3.01
+		 Y :180.38
+		 Z :-0.23
+	Rotation: 
+		 X :9.03
+		 Y :284.58
+		 Z :0.48
+Picture: Roomone 1
+	Position: 
+		 X  -2.94
+		 Y :180.39
+		 Z :-0.81
+	Rotation: 
+		 X :6.59
+		 Y :240.99
+		 Z :2.83
+Picture: Roomone 2
+	Position: 
+		 X  1.01
+		 Y :180.39
+		 Z :-0.68
+	Rotation: 
+		 X :12.32
+		 Y :137.24
+		 Z :2.11
+Picture: Roomone 3
+	Position: 
+		 X  0.94
+		 Y :180.40
+		 Z :-0.42
+	Rotation: 
+		 X :13.43
+		 Y :38.10
+		 Z :1.64
+Picture: Roomone 4
+	Position: 
+		 X  1.11
+		 Y :180.41
+		 Z :-0.52
+	Rotation: 
+		 X :11.94
+		 Y :211.73
+		 Z :1.59

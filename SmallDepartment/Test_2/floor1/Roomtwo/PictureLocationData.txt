@@ -1,0 +1,9 @@
+Picture: Roomtwo 5
+	Position: 
+		 X  -1.80
+		 Y :180.87
+		 Z :-1.88
+	Rotation: 
+		 X :8.56
+		 Y :97.86
+		 Z :358.48
