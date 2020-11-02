@@ -1,0 +1,9 @@
+Picture: 1
+	Position: 
+		 X  -0.17
+		 Y :180.14
+		 Z :0.11
+	Rotation: 
+		 X :14.13
+		 Y :342.56
+		 Z :358.84

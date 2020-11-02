@@ -1,0 +1,17 @@
+Room: Roonsix
+	Wall: 1
+		Length:3.062603
+		First corner:(-3.1, 2.0, -3.2)
+		Second corner:(-6.1, 2.0, -4.1)
+	Wall: 2
+		Length:3.501086
+		First corner:(-6.1, 2.0, -4.1)
+		Second corner:(-4.9, 2.0, -7.5)
+	Wall: 3
+		Length:3.000751
+		First corner:(-4.9, 2.0, -7.5)
+		Second corner:(-2.1, 2.0, -6.5)
+	Wall: 4
+		Length:3.419379
+		First corner:(-2.1, 2.0, -6.5)
+		Second corner:(-3.1, 2.0, -3.2)

@@ -1,0 +1,17 @@
+Room: Roomseven
+	Wall: 1
+		Length:4.489727
+		First corner:(2.6, 2.0, -1.0)
+		Second corner:(-1.9, 2.0, -0.8)
+	Wall: 2
+		Length:3.780496
+		First corner:(-1.9, 2.0, -0.8)
+		Second corner:(-2.1, 2.0, -4.6)
+	Wall: 3
+		Length:4.530084
+		First corner:(-2.1, 2.0, -4.6)
+		Second corner:(2.4, 2.0, -4.9)
+	Wall: 4
+		Length:3.866851
+		First corner:(2.4, 2.0, -4.9)
+		Second corner:(2.6, 2.0, -1.0)

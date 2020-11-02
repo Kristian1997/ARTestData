@@ -1,0 +1,21 @@
+Room: Roomthree
+	Wall: 1
+		Length:1.06572
+		First corner:(-2.5, 2.0, 1.0)
+		Second corner:(-1.5, 2.0, 1.5)
+	Wall: 2
+		Length:2.721955
+		First corner:(-1.5, 2.0, 1.5)
+		Second corner:(-2.5, 2.0, 4.0)
+	Wall: 3
+		Length:1.643676
+		First corner:(-2.5, 2.0, 4.0)
+		Second corner:(-4.0, 2.0, 3.4)
+	Wall: 4
+		Length:1.58302
+		First corner:(-4.0, 2.0, 3.4)
+		Second corner:(-3.4, 2.0, 1.9)
+	Wall: 5
+		Length:1.303779
+		First corner:(-3.4, 2.0, 1.9)
+		Second corner:(-2.5, 2.0, 1.0)

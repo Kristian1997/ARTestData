@@ -1,0 +1,17 @@
+Room: Roomsix
+	Wall: 1
+		Length:3.12306
+		First corner:(-2.3, 2.0, -3.9)
+		Second corner:(-5.4, 2.0, -4.1)
+	Wall: 2
+		Length:3.595546
+		First corner:(-5.4, 2.0, -4.1)
+		Second corner:(-5.1, 2.0, -7.7)
+	Wall: 3
+		Length:3.079278
+		First corner:(-5.1, 2.0, -7.7)
+		Second corner:(-2.0, 2.0, -7.4)
+	Wall: 4
+		Length:3.509528
+		First corner:(-2.0, 2.0, -7.4)
+		Second corner:(-2.3, 2.0, -3.9)

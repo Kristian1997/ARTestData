@@ -1,0 +1,17 @@
+Room: Roomfour
+	Wall: 1
+		Length:4.467057
+		First corner:(-1.5, 2.0, 2.2)
+		Second corner:(2.9, 2.0, 1.9)
+	Wall: 2
+		Length:3.099777
+		First corner:(2.9, 2.0, 1.9)
+		Second corner:(2.6, 2.0, -1.2)
+	Wall: 3
+		Length:4.387393
+		First corner:(2.6, 2.0, -1.2)
+		Second corner:(-1.8, 2.0, -0.8)
+	Wall: 4
+		Length:3.086504
+		First corner:(-1.8, 2.0, -0.8)
+		Second corner:(-1.5, 2.0, 2.2)
