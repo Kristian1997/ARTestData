@@ -1,0 +1,17 @@
+Room: Roomfive
+	Wall: 1
+		Length:2.333648
+		First corner:(2.3, 2.0, -3.6)
+		Second corner:(0.2, 2.0, -2.7)
+	Wall: 2
+		Length:1.983718
+		First corner:(0.2, 2.0, -2.7)
+		Second corner:(-0.6, 2.0, -4.6)
+	Wall: 3
+		Length:2.370368
+		First corner:(-0.6, 2.0, -4.6)
+		Second corner:(1.6, 2.0, -5.4)
+	Wall: 4
+		Length:1.95722
+		First corner:(1.6, 2.0, -5.4)
+		Second corner:(2.3, 2.0, -3.6)

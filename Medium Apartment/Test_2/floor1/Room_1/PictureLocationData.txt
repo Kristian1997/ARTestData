@@ -1,0 +1,54 @@
+Picture: 1
+	Position: 
+		 X  3.47
+		 Y :180.97
+		 Z :-4.06
+	Rotation: 
+		 X :9.90
+		 Y :17.93
+		 Z :2.45
+Picture: 2
+	Position: 
+		 X  3.44
+		 Y :180.97
+		 Z :-4.26
+	Rotation: 
+		 X :8.82
+		 Y :105.54
+		 Z :1.23
+Picture: 3
+	Position: 
+		 X  3.25
+		 Y :180.99
+		 Z :-4.43
+	Rotation: 
+		 X :8.07
+		 Y :189.41
+		 Z :2.22
+Picture: 4
+	Position: 
+		 X  3.45
+		 Y :180.99
+		 Z :-4.17
+	Rotation: 
+		 X :10.10
+		 Y :266.30
+		 Z :1.95
+Picture: 5
+	Position: 
+		 X  -0.43
+		 Y :181.08
+		 Z :2.54
+	Rotation: 
+		 X :7.70
+		 Y :252.52
+		 Z :0.60
+Picture: 6
+	Position: 
+		 X  -0.57
+		 Y :181.06
+		 Z :1.28
+	Rotation: 
+		 X :12.23
+		 Y :182.14
+		 Z :4.14
